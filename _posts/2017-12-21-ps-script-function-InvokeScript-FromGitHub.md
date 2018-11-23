@@ -4,8 +4,8 @@ title:  "Function: InvokeScript-FromGitHub"
 date:   2018-11-21
 desc: "PowerShell Function to pull script from github and execute it on system"
 keywords: "Jekyll,gh-pages,website,blog,powershell,scripting"
-categories: [POWERSHELL]
-tags: [PowerShell,Jekyll]
+categories: [Powershell]
+tags: [Powershell,Jekyll]
 icon: icon-html
 ---
 
