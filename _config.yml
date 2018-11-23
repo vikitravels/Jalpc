@@ -32,7 +32,7 @@ author:  # change following line to your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  name: vikiscripts
 
 # analytics
 ## google analytics
@@ -48,7 +48,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
@@ -62,8 +62,8 @@ sass:
 encoding: utf-8
 
 # other settings
-highlighter: rouge
-markdown: kramdown
+#highlighter: rouge
+#markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
