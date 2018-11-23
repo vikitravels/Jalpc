@@ -9,14 +9,14 @@
 - name: Linux
   href: /linux/
 
-- name: HTML
-  href: /html/
+- name: PowerShell
+  href: /powershell/
 
 - name: Database
   href: /database/
 
-- name: Mac
-  href: /mac/
+- name: VbScript
+  href: /vbs/
 
 - name: Life
   href: /life/
